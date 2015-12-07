@@ -35,7 +35,7 @@ devtools::install_github("richfitz/remake")
 Finally, it would be helpful if you installed the following packages will be used in the examples:
 
 ```r
-install.packages(c("knitr", "rmarkdown", "mapsdata", "maps", "downloader", "smatr"))
+install.packages(c("knitr", "rmarkdown", "mapdata", "maps", "downloader", "smatr"))
 ```
 
 ## Materials

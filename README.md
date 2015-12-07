@@ -32,8 +32,16 @@ and
 devtools::install_github("richfitz/remake")
 ```
 
-Finally, it would be helpful if you installed the following packages will be used in some of more advanced examples:
+Finally, it would be helpful if you installed the following packages will be used in the examples:
 
 ```r
-install.packages(c("knitr", "rmarkdown"))
+install.packages(c("knitr", "rmarkdown", "mapsdata", "maps", "downloader", "smatr"))
+```
+
+## Materials
+
+Now download [the example](https://github.com/traitecoevo/remake_baad_example) for the tutorial from github as [a zip file](https://github.com/traitecoevo/remake_baad_example/archive/master.zip) or, if you use git, by cloning the repo:
+
+```
+git clone git@github.com:traitecoevo/remake_baad_example.git
 ```

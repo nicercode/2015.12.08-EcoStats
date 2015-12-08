@@ -40,6 +40,6 @@ install.packages(c("knitr", "rmarkdown", "mapdata", "maps", "downloader", "smatr
 
 ## Materials
 
-Download the example for the tutorial [here](raw/master/remake_baad_example.zip)
+Download the example for the tutorial [here](../../raw/master/remake_baad_example.zip)
 
-A copy of the slides are available [here](raw/master/remake_intro_slides.pdf)
+A copy of the slides are available [here](../../raw/master/remake_intro_slides.pdf)

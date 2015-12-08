@@ -40,8 +40,6 @@ install.packages(c("knitr", "rmarkdown", "mapdata", "maps", "downloader", "smatr
 
 ## Materials
 
-Now download [the example](https://github.com/traitecoevo/remake_baad_example) for the tutorial from github as [a zip file](https://github.com/traitecoevo/remake_baad_example/archive/master.zip) or, if you use git, by cloning the repo:
+Download the example for the tutorial [here](remake_baad_example.zip)
 
-```
-git clone git@github.com:traitecoevo/remake_baad_example.git
-```
+A copy of the slides are available [here](remake_intro_slides.pdf)
